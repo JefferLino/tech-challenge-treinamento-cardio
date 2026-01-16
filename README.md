@@ -7,7 +7,7 @@ Além disso, foi criada uma **API em Python** para disponibilizar o modelo trein
 
 ## 📂 Estrutura do Projeto
 - `treinamento-cardio/treinamento-cardio.ipynb` → Notebook principal com todo o pipeline de análise e modelagem.
-- `base/cardio_train.csv` → Dataset utilizado (formato CSV, separador `;`).
+- `treinamento-cardio/base/cardio_train.csv` → Dataset utilizado (formato CSV, separador `;`).
 - `api/pipe_logistic_regression.pkl` → Pipeline do modelo de regressão logística salvo para uso em produção.
 - `api/cardio_check.py` → Aplicação FastAPI que sobe o webserver e expõe a API.
 - `README.md` → Documentação do projeto.
