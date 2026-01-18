@@ -12,6 +12,7 @@ Além disso, foi criada uma **API em Python** para disponibilizar o modelo trein
 - `api/cardio_check.py` → Aplicação FastAPI que sobe o webserver e expõe a API.
 - `README.md` → Documentação do projeto.
 - `treinamento-cardio.pdf` → Código fonte e gráficos mostrados em PDF.
+- `Documentacao_Tecnica.pdf` → A documentação técnica completa do notebook Jupyter utilizado no desenvolvimento de um modelo de Machine Learning para avaliação do risco de doenças cardíacas.
 
 ## 📦 Dependências
 O projeto utiliza as seguintes bibliotecas para análise e modelagem:
